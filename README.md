@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Peapodtravels
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello there, I am MK! 😊
+Data analytics and travel are both ways of satisfying my curiosity about the world!
 
-<!---
-Peapodtravels/Peapodtravels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/41cf7095746151.5e9ecde696490.gif)
+
+
+
+Skills: Excel / SQL / Python / Tableau / Powerpoint / Procreate / Affinity Designer
+
+- 🛠️ I’m currently working on this page. 
