@@ -9,10 +9,9 @@ Data analytics and travel are both ways of satisfying my curiosity about the wor
 ![GitHub metrics](https://metrics.lecoq.io/Peapodtravels)  
 
 **Skills**: Excel / SQL / Python / Tableau / Powerpoint / Procreate / Affinity Designer
-
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning SQL / Python 
 
+**Fun Fact**: I drew those two puff fish.
 
 #### Thank you for visiting my page!
-
+- 🔭 I’m currently working on this page. 
